@@ -17,6 +17,38 @@ Platform engineering oleh [Mohammad Bany](https://marzuqnx.com) — Jakarta, Ind
 
 ---
 
+## Preview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/screenshot-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/screenshot-light.png">
+  <img src="assets/screenshot-dark.png" alt="MarzuQNX — Dark Mode" width="100%" />
+</picture>
+
+<details>
+<summary><b>🌙 Dark Mode &nbsp;|&nbsp; ☀️ Light Mode &nbsp;(klik untuk expand)</b></summary>
+
+<br>
+
+| Dark Mode | Light Mode |
+|-----------|------------|
+| ![Dark](assets/screenshot-dark.png) | ![Light](assets/screenshot-light.png) |
+
+</details>
+
+<details>
+<summary><b>📱 Mobile View</b></summary>
+
+<br>
+
+| Dark Mobile | Light Mobile |
+|-------------|--------------|
+| ![Dark Mobile](assets/screenshot-mobile-dark.png) | ![Light Mobile](assets/screenshot-mobile-light.png) |
+
+</details>
+
+---
+
 ## Tentang
 
 **MarzuQNX** adalah platform engineering personal yang dibangun dan dioperasikan oleh **Mohammad Bany** — seorang *infrastructure engineer*, *web developer*, *game designer*, dan *music artist* yang berbasis di **Jakarta, Indonesia**.

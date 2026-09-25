@@ -87,7 +87,7 @@ Audit infrastruktur dan rekomendasi teknis sebelum bisnis salah investasi di too
 - **Stack:** Flutter · Flame Engine · Supabase · Firebase · SQLite
 - **Status:** Internal Testing
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Word_Striker-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marzuqnx.wordstriker)
+[![Google Play](https://img.shields.io/badge/Google_Play-Word_Striker-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dbanie.wordstriker)
 
 ---
 
@@ -183,7 +183,7 @@ Butuh **web developer Jakarta freelance**, **email hosting bisnis Indonesia**, *
 |---------|------|
 | Website | [marzuqnx.com](https://marzuqnx.com) |
 | Email | [kotaksurat@marzuqnx.com](mailto:kotaksurat@marzuqnx.com) |
-| LinkedIn | [linkedin.com/in/mohammadbany](https://www.linkedin.com/in/mohammadbany) |
+| LinkedIn | [linkedin.com/in/mohammadbany](https://www.linkedin.com/in/dbanie) |
 | GitHub | [github.com/marzuqnx](https://github.com/marzuqnx) |
 | Spotify (dbanie) | [dbanie on Spotify](https://open.spotify.com/intl-id/artist/5FnrbxU9tLlU4bKBQTC0YI) |
 | Spotify (Marz Qnx) | [Marz Qnx on Spotify](https://open.spotify.com/intl-id/artist/6aVp1BB01F3ufkspBDM4rt) |

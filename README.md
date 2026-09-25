@@ -10,7 +10,7 @@ Platform engineering oleh [Mohammad Bany](https://marzuqnx.com) — Jakarta, Ind
 
 [![Website](https://img.shields.io/badge/Website-marzuqnx.com-0a0a0a?style=flat-square&logo=google-chrome&logoColor=white)](https://marzuqnx.com)
 [![Email](https://img.shields.io/badge/Email-kotaksurat%40marzuqnx.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:kotaksurat@marzuqnx.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadbany-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadbany-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbanie/)
 [![Spotify](https://img.shields.io/badge/Spotify-dbanie-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/intl-id/artist/5FnrbxU9tLlU4bKBQTC0YI)
 
 </div>
